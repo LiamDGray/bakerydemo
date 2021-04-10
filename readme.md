@@ -148,7 +148,7 @@ Deploy to Heroku
 If you don't want to test locally you can deploy a demo site to a publicly accessible server with [Heroku's](https://heroku.com)
 one-click deployment solution to their free 'Hobby' tier:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wagtail/bakerydemo)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LiamDGray/bakerydemo)
 
 If you do not have a Heroku account, clicking the above button will walk you through the steps
 to generate one.  At this point you will be presented with a screen to configure your app. For our purposes,
